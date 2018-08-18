@@ -1,0 +1,10 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tristan Matthias <hello@tristanmatthias.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
